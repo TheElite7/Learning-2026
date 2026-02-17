@@ -45,10 +45,20 @@ Internet User → Revers Proxy → Web Server 1
 
 **6. HTTP/HTTPS**
 + HTTP (Hypertext Transfer Protocol) is the foundation of data communication on the World Wide Web.
-+ 
++ HTTP
+```
+HTTP (1 RTT):
+[SYN] → [SYN-ACK] → [ACK] → HTTP Request → Response
+```
++ HTTPS - use SSL/TLS certificates for security.
+```
+HTTPS with TLS 1.2 (3 RTTs):
+[SYN] → [SYN-ACK] → [ACK] → TLS Handshake (2 RTTs) → HTTP Request → Response
+```
+
 
 **7. Application Programming Interface (API)**
-+
++ 
 
 **8. REST API**
 + 
