@@ -87,3 +87,45 @@ HTTPS with TLS 1.2 (3 RTTs):
 **16. Replication**
 + 
 
+**17. Sharing**
++ 
+
+**18. Verical Partitioning**
++ 
+
+**19. Caching**
++ 
+
+**20. Denormalization**
++ 
+
+**21. CAP Theorem**
++ 
+
+**22. Blob Storage**
++ 
+
+**23. CDN**
++ 
+
+**24. Web Sockets**
++ 
+
+**25. Web hooks**
++ 
+
+**26. Microservices**
++ 
+
+**27. Message Queues**
++ 
+
+**28. Rate Limiting**
++ 
+
+**29. API Gateways**
++ 
+
+**30. Idemptency**
++ 
+
